@@ -1,0 +1,2 @@
+# ChangeNavBarAlpha
+根据tableview的当前位置改变导航栏的透明度效果通过
